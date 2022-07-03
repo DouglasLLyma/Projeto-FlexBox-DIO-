@@ -1,3 +1,3 @@
-# project flexbox DIO
+# Project flexbox DIO
 
 https://gitlab.com/karensantos/project-flexbox-dio
